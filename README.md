@@ -1,7 +1,7 @@
 # opencv-colab
 change example program to colab type
 
-tip1 : delete 'waitKey' ; window's name ;
+tip1 : delete 'waitKey' ; window's name
 
 tip2 : import cv2 --> 
 import cv2
